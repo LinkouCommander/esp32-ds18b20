@@ -1,0 +1,20 @@
+{
+  "name": "ESP32-DS18B20",
+  "version": "1.0.0",
+  "description": "ESP32 driver for DS18B20 temperature sensors using one-wire",
+  "keywords": "esp32, ds18b20, temperature, sensor, onewire",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LinkouCommander/esp32-ds18b20"
+  },
+  "authors": [
+    {
+      "name": "Brian Hsieh",
+      "email": "",
+      "url": "https://github.com/LinkouCommander",
+      "maintainer": true
+    }
+  ],
+  "frameworks": ["espidf"],
+  "platforms": ["espressif32"]
+}
