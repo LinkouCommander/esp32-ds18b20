@@ -15,7 +15,7 @@ It provides both the **One-Wire protocol implementation** and a **DS18B20 user i
 ### Option 1: PlatformIO Registry
 Add the following to your `platformio.ini`:
 ```ini
-lib_deps = LinkouCommander/esp32-ds18b20
+lib_deps = linkoucommander/ESP32-DS18B20
 ```
 
 ### Option 2: Local Library
